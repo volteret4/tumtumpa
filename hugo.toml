@@ -1,13 +1,13 @@
 theme = 'lightbi-hugo'
   twitter = "username"
   linkedin = "username"
-  github = "username"
+  github = "volteret4"
   threads = "username"
   gitlab = "username"
   reddit = "username"
   stackoverflow = "users/XXXXXXX/username"
   snapchat = "username"
-  spotify = "username"
+  spotify = "pollolpc"
   paypal = "username"
   telegram = "username"
   mastodon = "url"
@@ -24,12 +24,12 @@ theme = 'lightbi-hugo'
   # codepen = "username"
 
 [[menu.main]]
-    name = "Home"
+    name = "Inicio"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
+    name = "Discos"
     url = "/notes/"
     weight = 2
 
@@ -39,14 +39,14 @@ theme = 'lightbi-hugo'
     weight = 3
 
 [[menu.main]]
-    name = "Collections"
+    name = "Artistas"
     url = "/collections/"
     weight = 4
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 5
+#[[menu.main]]
+#    name = ""
+#    url = "/about/"
+#    weight = 5
 
 
 [sitemap]
