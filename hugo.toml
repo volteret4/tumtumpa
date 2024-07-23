@@ -30,7 +30,7 @@ theme = 'lightbi-hugo'
 
 [[menu.main]]
     name = "Notes"
-    url = "/content/notes/"
+    url = "/notes/"
     weight = 2
 
 [[menu.main]]
@@ -40,12 +40,12 @@ theme = 'lightbi-hugo'
 
 [[menu.main]]
     name = "Collections"
-    url = "/content/collections/"
+    url = "/collections/"
     weight = 4
 
 [[menu.main]]
     name = "About"
-    url = "/content/content/about/"
+    url = "/about/"
     weight = 5
 
 
