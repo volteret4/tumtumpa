@@ -13,7 +13,7 @@ theme = "dream"
 [params]
 # zenMode = true
 
-#lightTheme = "emerald"
+lightTheme = "emerald"
 darkTheme = "forest"
 
 # backgroundImage = "me/background.jpg"
@@ -48,11 +48,11 @@ siteStartYear = 2024
 # customSyntaxHighlighting = true
 
 # options
-# stickyNav = true
+stickyNav = true
 # reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
 # collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
-# showTableOfContents = true
+showTableOfContents = true
 # showSummaryCoverInPost = true
 # imageZoomableInPost = true
 # showPrevNextPost = true
