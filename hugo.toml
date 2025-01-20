@@ -1,55 +1,69 @@
-theme = 'lightbi-hugo'
-  twitter = "username"
-  linkedin = "username"
-  github = "volteret4"
-  threads = "username"
-  gitlab = "username"
-  reddit = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  spotify = "pollolpc"
-  paypal = "username"
-  telegram = "username"
-  mastodon = "url"
-  slack = "username"
-  #bandcamp = "username"
-  #itchio = "username"
-  #vk = "username"
-  #500px = "username"
-  #kaggle = "username"
-  #weibo = "username"
-  #xing = "username"
-  #bitbucket = "username"
-  #soundcloud = "username"
-  # codepen = "username"
+baseurl = "https://voltereta.github.io/tumtumpa"
+defaultContentLanguage = "es"
+languageCode = "es"
+title = "tumtumpá"
+theme = "dream"
 
-[[menu.main]]
-    name = "Inicio"
-    url = "/"
-    weight = 1
+# [services]
+# [services.disqus]
+# shortname = ""
+# [services.googleAnalytics]
+# ID = ""
 
-[[menu.main]]
-    name = "Discos"
-    url = "/notes/"
-    weight = 2
+[params]
+# zenMode = true
 
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
-    weight = 3
+#lightTheme = "emerald"
+darkTheme = "forest"
 
-[[menu.main]]
-    name = "Artistas"
-    url = "/collections/"
-    weight = 4
+# backgroundImage = "me/background.jpg"
+# backgroundImageDark = ""
 
-#[[menu.main]]
-#    name = ""
-#    url = "/about/"
-#    weight = 5
+author = "volteret4"
+# description = ""
+# avatar = "img/avatar.png"
+headerTitle = "tumtumpá"
+# motto = ""
 
+# footerBottomText = ""
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+rss = true
+
+# utterancesRepo = ""
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+
+# waline = true
+# walineServer = ""
+
+# email = "tumtumpa@disroot.org"
+
+siteStartYear = 2024
+
+# favicon = "favicon.ico"
+
+# Syntax highlighting
+# customSyntaxHighlighting = true
+
+# options
+# stickyNav = true
+# reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
+# collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+# showTableOfContents = true
+# showSummaryCoverInPost = true
+# imageZoomableInPost = true
+# showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
+
+# [params.navItems]
+
+# [params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
+
+# [params.experimental]
+# jsDate = true
+# jsDateFormat = "yyyy年MM月dd日"
