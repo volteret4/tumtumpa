@@ -8,6 +8,15 @@ tags:
   - 
   - 
   - 
+images:
+  - "../links/svg/discogs.png"
+  - "../links/svg/musicbrainz.png"
+  - "../links/svg/wikipedia.png"
+  - "../links/svg/bandcamp.png"
+  - "../links/svg/spotify.png"
+  - "../links/svg/youtube.png"
+  - "../links/svg/lastfm.png"
+
 author: Pablo
 cover: "cover.jpg"
 categories: album
