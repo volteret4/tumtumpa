@@ -28,9 +28,9 @@ The remaining content of your post.
  
 [![discogs](../links/svg/discogs.png (discogs))](https://www.discogs.com/master/30270)
  
-[![musicbrainz](../links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/320c60d1-c982-4a53-a96b-239d7646d923)
+[![musicbrainz](/content/post/links/svg/musicbrainz.png (musicbrainz))](https://musicbrainz.org/release/320c60d1-c982-4a53-a96b-239d7646d923)
  
-[![wikipedia](../links/svg/wikipedia.png (wikipedia))](https://en.wikipedia.org/wiki/Spiritualized)
+[![wikipedia](content/post/links/svg/wikipedia.png (wikipedia))](https://en.wikipedia.org/wiki/Spiritualized)
  
 [![bandcamp](../links/svg/bandcamp.png (bandcamp))](https://bandcamp.com/search?q=Spiritualized%20Ladies-and-gentlemen-we-are-floating-in-space)
  
