@@ -10,8 +10,8 @@ tags:
   - 
 images:
   - "../links/svg/discogs.png"
-  - "../links/svg/musicbrainz.png"
-  - "../links/svg/wikipedia.png"
+  - "/content/post/links/svg/musicbrainz.png"
+  - "content/post/links/svg/wikipedia.png"
   - "../links/svg/bandcamp.png"
   - "../links/svg/spotify.png"
   - "../links/svg/youtube.png"
