@@ -12,6 +12,7 @@ theme = "dream"
 
 [params]
 # zenMode = true
+paginate = 10
 
 lightTheme = "emerald"
 darkTheme = "forest"
@@ -21,7 +22,7 @@ darkTheme = "forest"
 
 author = "volteret4"
 # description = ""
-# avatar = "img/avatar.png"
+avatar = "links/avatar.jpg"
 headerTitle = "tumtumpá"
 # motto = ""
 
@@ -29,7 +30,7 @@ headerTitle = "tumtumpá"
 
 rss = true
 
-# utterancesRepo = ""
+# utterancesRepo = "volteret4/volteret4.github.io"
 
 # valine = true
 # LEANCLOUD_APP_ID = ""

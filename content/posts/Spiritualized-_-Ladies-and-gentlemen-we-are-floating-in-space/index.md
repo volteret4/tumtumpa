@@ -13,14 +13,10 @@ cover: cover.jpg
 images:
   - cover.jpg
 categories: album
-featured: true
+draft: false
 ---
-Cut out summary from your post content here.
+definicion corta
 <!--more-->
-The remaining content of your post.
- 
-
 ![img](cover.jpg)
-
 
 [discogs](https://www.discogs.com/master/30270) [musicbrainz](https://musicbrainz.org/release/320c60d1-c982-4a53-a96b-239d7646d923) [wikipedia](https://en.wikipedia.org/wiki/Spiritualized) [bandcamp](https://bandcamp.com/search?q=Spiritualized%20Ladies-and-gentlemen-we-are-floating-in-space) [spotify](https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun) [youtube](https://www.youtube.com/playlist?list=PL4EItsGsS1SlQpi7Lxw_QvuLk46Psl0fI)
