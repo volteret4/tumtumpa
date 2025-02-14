@@ -18,6 +18,7 @@ Algo de información sobre mis escuchas
 |Rateyourmusic|https://rateyourmusic.com/~pollolpc|
 |Record.club|https://record.club/voltereta|
 |Spotify|https://open.spotify.com/user/pollolpc|
+|||
 
 
 ## Resto de blogs Mantenidos
@@ -26,5 +27,5 @@ Algo de información sobre mis escuchas
 |tumtumpa|Mi opinión sobre mis discos favoritos|
 |vvmm|Selección de discos que me gustan en una primera escucha|
 |rym|Estadísticas musicales de un grupo de locos por la música|
-
+|||
 
