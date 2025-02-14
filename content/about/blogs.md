@@ -1,5 +1,5 @@
 ---
-title: Blogs
+title: Mis Blogs
 date: 2025-01-20T20:04:38+01:00
 draft: false
 ---
