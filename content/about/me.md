@@ -1,11 +1,19 @@
 ---
 title: Me
 date: 2025-01-20T20:04:38+01:00
-draft: true
+draft: false
 ---
 
-Cut out summary from your post content here.
+Enlaces a los servicios musicales usados.
 
 <!--more-->
 
-The remaining content of your post.
+|Servicio|Enlace|
+|Bandcamp|https://bandcamp.com/pollolpc|
+|Discogs|https://www.discogs.com/user/pollolpc|
+|Lastfm|https://lastfmstats.com/user/paqueradejere|
+|Musicbrainz|https://musicbrainz.org/user/guevifrito|
+|Rateyourmusic|https://rateyourmusic.com/~pollolpc|
+|Record.club|https://record.club/voltereta|
+|Spotify|https://open.spotify.com/user/pollolpc|
+

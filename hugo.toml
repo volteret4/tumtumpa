@@ -30,7 +30,7 @@ headerTitle = "tumtumpá"
 
 rss = true
 
-# utterancesRepo = "volteret4/volteret4.github.io"
+utterancesRepo = "volteret4/tumtumpa"
 
 # valine = true
 # LEANCLOUD_APP_ID = ""
