@@ -8,7 +8,9 @@ draft: false
 
 [Discogs](https://www.discogs.com/user/pollolpc)
 
-[Lastfm](https://lastfmstats.com/user/paqueradejere)
+[Lastfm](https://www.last.fm/user/paqueradejere)
+
+[ListenBrainz](https://listenbrainz.org/user/guevifrito/)
 
 [Musicbrainz](https://musicbrainz.org/user/guevifrito)
 
