@@ -6,12 +6,11 @@ draft: false
 
 Algo de información sobre mis escuchas
 
-<!--more-->
-
 ## Enlaces a servicios usados.
 
 |Servicio|Enlace|
 |Bandcamp|https://bandcamp.com/pollolpc|
+|||
 |Discogs|https://www.discogs.com/user/pollolpc|
 |Lastfm|https://lastfmstats.com/user/paqueradejere|
 |Musicbrainz|https://musicbrainz.org/user/guevifrito|
@@ -19,7 +18,6 @@ Algo de información sobre mis escuchas
 |Record.club|https://record.club/voltereta|
 |Spotify|https://open.spotify.com/user/pollolpc|
 |||
-
 
 ## Resto de blogs Mantenidos
 
