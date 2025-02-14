@@ -68,3 +68,7 @@ showTableOfContents = true
 # [params.experimental]
 # jsDate = true
 # jsDateFormat = "yyyy年MM月dd日"
+
+[markup]
+[markup.goldmark.parser.attribute]
+block = true
